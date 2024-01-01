@@ -33,5 +33,7 @@ Following description and images show the basic steps of this script.
 
 # Sources/Links
 [1] https://superuser.com/questions/736388/kaleidoscope-effect-with-ffmpeg
+
 [2] https://en.wikipedia.org/wiki/Euclidean_tilings_by_convex_regular_polygons#Regular_tilings
+
 [3] https://en.wikipedia.org/wiki/Kaleidoscope
